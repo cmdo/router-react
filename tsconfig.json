@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "lib": ["dom", "esnext"],
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "module": "esnext",
+    "declaration": true,
+    "outDir": "dist",
+    "baseUrl": "src"
+  },
+  "include": ["src"],
+  "exclude": [
+    "**/__tests__"
+  ]
+}
