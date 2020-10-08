@@ -691,7 +691,7 @@
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.3.tgz#2ab0d5da2e5815f94b0b9d4b95d1e5f243ab2ca7"
   integrity sha512-KfRL3PuHmqQLOG+2tGpRO26Ctg+Cq1E01D2DMriKEATHgWLfeNDmq9e29Q9WIky0dQ3NPkd1mzYH8Lm936Z9qw==
 
-"@types/react@^16.9.51":
+"@types/react@16.9.51":
   version "16.9.51"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.51.tgz#f8aa51ffa9996f1387f63686696d9b59713d2b60"
   integrity sha512-lQa12IyO+DMlnSZ3+AGHRUiUcpK47aakMMoBG8f7HGxJT8Yfe+WE128HIXaHOHVPReAW0oDS3KAI0JI2DDe1PQ==
@@ -1197,10 +1197,10 @@ cliui@^6.0.0:
     strip-ansi "^6.0.0"
     wrap-ansi "^6.2.0"
 
-cmdo-router@1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/cmdo-router/-/cmdo-router-1.2.0.tgz#513cdded23cb33c4ad77551a0831f26bd7944dea"
-  integrity sha512-JwTQcFTaCoL3kRAEbA1euERnz7HPEQSRoKXbOMCh1JhnYKV7S8v+O2YakL+0RzhQ6M5cqjm6hdRjGnx/si50hA==
+cmdo-router@1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/cmdo-router/-/cmdo-router-1.2.1.tgz#2b7e098eb807b732b0a9e58c27b9c12fd576c9e5"
+  integrity sha512-mCTQYQijU8p+aXRqpCIM5+RyEXwYgg0WwYbCtvNp6P2ODiG3RCXqAhVX5OEnp6OEc0hiioNo8lFyOM3f+ix6Mw==
 
 co@^4.6.0:
   version "4.6.0"
