@@ -1,8 +1,8 @@
 {
   "name": "cmdo-router-react",
   "description": "A react router hook layer for https://github.com/cmdo/router",
-  "version": "1.2.1",
-  "author": "Christoffer Rodvik <christoffer@kodemon.net>",
+  "version": "1.2.2",
+  "author": "Christoffer Rødvik <christoffer@kodemon.net>",
   "license": "MIT",
   "repository": "cmdo/router-react",
   "keywords": [
@@ -19,7 +19,7 @@
     "test": "node --inspect node_modules/.bin/jest --runInBand"
   },
   "dependencies": {
-    "cmdo-router": "1.2.1",
+    "cmdo-router": "1.2.2",
     "react": "16.13.1"
   },
   "devDependencies": {

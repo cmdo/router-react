@@ -1,11 +1,16 @@
 {
   "compilerOptions": {
-    "target": "esnext",
-    "lib": ["dom", "esnext"],
-    "strict": true,
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "es6",
+      "es2017"
+    ],
     "moduleResolution": "node",
+    "target": "es5",
+    "strict": true,
+    "removeComments": true,
     "esModuleInterop": true,
-    "module": "esnext",
     "declaration": true,
     "outDir": "dist",
     "baseUrl": "src"
