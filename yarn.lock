@@ -1197,10 +1197,10 @@ cliui@^6.0.0:
     strip-ansi "^6.0.0"
     wrap-ansi "^6.2.0"
 
-cmdo-router@1.2.2:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/cmdo-router/-/cmdo-router-1.2.2.tgz#b8814c21260e142f1d7fce4c3bcb8273b53bfdac"
-  integrity sha512-yq6xprOrYmteGBK3BohMXxYQc3ugM0l4TPi4KcTcyx8GhfEzroSsl+9ZkoEo7YbPiq7wf9UXvhKEM9mEaqvvHQ==
+cmdo-router@1.2.4:
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/cmdo-router/-/cmdo-router-1.2.4.tgz#7ad0d96ddcca4bf3c2e4b593848d7718b5f9d648"
+  integrity sha512-39bTMWBy15pcMvdGGx4ZX1iS/M8Be9aUTDG38uTcqnzGQsTTOlCklsYfyCVdO7jR0fEJfsGpxSJJ7OCb18ah/Q==
 
 co@^4.6.0:
   version "4.6.0"
